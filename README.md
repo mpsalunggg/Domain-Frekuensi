@@ -1,9 +1,6 @@
 # Domain-Frekuensi
 about frequency domain assignment
-
-Nama : Muhamad Putra Satria
-Stambuk : F55120009
-Kelas : A
+Muhamad Putra Satria | F55120009 | A
 # Program
 1. Fourier Transform
 2. High Pass Filter With Fourier Transform
